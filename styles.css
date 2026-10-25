@@ -1,0 +1,12 @@
+body {
+    background: black;
+    color: white;
+}
+
+#first_div{
+    background: green;
+}
+
+.important{
+    color: greenyellow;
+}
