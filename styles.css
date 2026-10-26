@@ -1,12 +1,13 @@
 body {
-    background: black;
-    color: white;
+    background: rgb(183, 191, 145);
+    color: black;
 }
 
-#first_div{
+#form{
     background: green;
+    width: 10%;
 }
 
 .important{
-    color: greenyellow;
+    color: rgb(177, 30, 30);
 }
